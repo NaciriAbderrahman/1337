@@ -1,0 +1,13 @@
+2024-10-12 13:02:00.135 [info] [certificates] Removed 3 expired certificates
+2024-10-12 13:02:18.474 [info] [auth] Invalid copilot token: missing token: 403 
+2024-10-12 13:02:18.497 [info] [auth] Invalid copilot token: missing token: 403 
+2024-10-12 13:02:18.509 [info] [auth] Invalid copilot token: missing token: 403 
+2024-10-12 13:02:25.571 [info] [auth] Invalid copilot token: missing token: 403 
+2024-10-12 13:02:25.576 [error] [auth] auth: CopilotAuthError: No access to GitHub Copilot found. You are currently logged in as NaciriAbderrahman.
+    at authShowWarnings (/home/ichigo/.vscode-server/extensions/github.copilot-1.238.0/extension/src/auth.ts:144:15)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at RX.getCopilotToken (/home/ichigo/.vscode-server/extensions/github.copilot-1.238.0/extension/src/auth.ts:174:33)
+    at attemptAuthentication (/home/ichigo/.vscode-server/extensions/github.copilot-1.238.0/extension/src/auth.ts:58:9) {
+  cause: undefined
+}
+2024-10-12 13:02:25.576 [error] [auth] No access to GitHub Copilot found. You are currently logged in as NaciriAbderrahman.

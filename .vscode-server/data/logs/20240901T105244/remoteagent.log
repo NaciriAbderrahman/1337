@@ -1,0 +1,18 @@
+2024-09-01 10:52:44.219 [info] 
+
+
+
+
+2024-09-01 10:52:44.236 [info] Extension host agent started.
+2024-09-01 10:52:44.281 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ichigo/.vscode-server/extensions
+2024-09-01 10:52:44.301 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ichigo/.vscode-server/extensions
+2024-09-01 10:52:44.482 [info] [127.0.0.1][e22d44c1][ManagementConnection] New connection established.
+2024-09-01 10:52:44.697 [info] [127.0.0.1][74d422c9][ExtensionHostConnection] New connection established.
+2024-09-01 10:52:44.764 [info] [127.0.0.1][74d422c9][ExtensionHostConnection] <159> Launched Extension Host Process.
+2024-09-01 10:53:07.420 [info] [127.0.0.1][e22d44c1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-09-01 10:53:07.459 [info] [127.0.0.1][74d422c9][ExtensionHostConnection] <159> Extension Host Process exited with code: 0, signal: null.
+2024-09-01 10:53:10.109 [info] [127.0.0.1][30342fa6][ManagementConnection] New connection established.
+2024-09-01 10:53:10.485 [info] [127.0.0.1][8da1811c][ExtensionHostConnection] New connection established.
+2024-09-01 10:53:10.495 [info] [127.0.0.1][8da1811c][ExtensionHostConnection] <239> Launched Extension Host Process.
+2024-09-01 10:53:43.404 [info] [127.0.0.1][30342fa6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-09-01 10:53:43.441 [info] [127.0.0.1][8da1811c][ExtensionHostConnection] <239> Extension Host Process exited with code: 0, signal: null.

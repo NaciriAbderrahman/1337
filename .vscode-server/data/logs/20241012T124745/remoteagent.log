@@ -1,0 +1,14 @@
+2024-10-12 12:47:45.324 [info] 
+
+
+
+
+2024-10-12 12:47:45.337 [info] Extension host agent started.
+2024-10-12 13:01:53.308 [info] Extensions added from another source github.copilot file:///home/ichigo/.vscode-server/extensions/extensions.json
+2024-10-12 13:01:58.445 [error] [/home/ichigo/.vscode-server/extensions/github.copilot-chat-0.21.1]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0.
+2024-10-12 13:01:58.445 [error] [/home/ichigo/.vscode-server/extensions/github.copilot-chat-0.21.1]: Extension is using an API proposal 'defaultChatParticipant' that is not compatible with the current version of VS Code.
+2024-10-12 13:01:58.446 [error] [/home/ichigo/.vscode-server/extensions/github.copilot-chat-0.21.1]: Extension is using an API proposal 'lmTools' that is not compatible with the current version of VS Code.
+2024-10-12 13:01:58.448 [info] Extensions added from another source github.copilot-chat file:///home/ichigo/.vscode-server/extensions/extensions.json
+2024-10-12 13:01:58.528 [error] [/home/ichigo/.vscode-server/extensions/github.copilot-chat-0.21.1]: Extension is not compatible with Code 1.93.1. Extension requires: ^1.94.0.
+2024-10-12 13:01:58.529 [error] [/home/ichigo/.vscode-server/extensions/github.copilot-chat-0.21.1]: Extension is using an API proposal 'defaultChatParticipant' that is not compatible with the current version of VS Code.
+2024-10-12 13:01:58.529 [error] [/home/ichigo/.vscode-server/extensions/github.copilot-chat-0.21.1]: Extension is using an API proposal 'lmTools' that is not compatible with the current version of VS Code.

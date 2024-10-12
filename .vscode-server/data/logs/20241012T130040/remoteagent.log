@@ -1,0 +1,21 @@
+2024-10-12 13:00:40.488 [info] 
+
+
+
+
+2024-10-12 13:00:40.504 [info] Extension host agent started.
+2024-10-12 13:00:40.784 [info] [127.0.0.1][d7425984][ManagementConnection] New connection established.
+2024-10-12 13:00:41.307 [info] [127.0.0.1][21531c8a][ExtensionHostConnection] New connection established.
+2024-10-12 13:00:41.333 [info] [127.0.0.1][21531c8a][ExtensionHostConnection] <1228> Launched Extension Host Process.
+2024-10-12 13:01:48.034 [info] Getting Manifest... github.copilot
+2024-10-12 13:01:48.216 [info] Installing extension: github.copilot {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/ichigo/.vscode-server/extensions/extensions.json","external":"file:///home/ichigo/.vscode-server/extensions/extensions.json","path":"/home/ichigo/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"}}
+2024-10-12 13:01:48.711 [info] Getting Manifest... github.copilot-chat
+2024-10-12 13:01:48.779 [info] Installing extension: github.copilot-chat {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64","dependecyOrPackExtensionInstall":true},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/ichigo/.vscode-server/extensions/extensions.json","external":"file:///home/ichigo/.vscode-server/extensions/extensions.json","path":"/home/ichigo/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"}}
+2024-10-12 13:01:52.541 [info] Extension signature verification result for github.copilot: Success. Executed: true. Duration: 2483ms.
+2024-10-12 13:01:53.205 [info] Extracted extension to file:///home/ichigo/.vscode-server/extensions/github.copilot-1.238.0: github.copilot
+2024-10-12 13:01:53.213 [info] Renamed to /home/ichigo/.vscode-server/extensions/github.copilot-1.238.0
+2024-10-12 13:01:57.900 [info] Extension signature verification result for github.copilot-chat: Success. Executed: true. Duration: 1385ms.
+2024-10-12 13:01:58.334 [info] Extracted extension to file:///home/ichigo/.vscode-server/extensions/github.copilot-chat-0.21.1: github.copilot-chat
+2024-10-12 13:01:58.342 [info] Renamed to /home/ichigo/.vscode-server/extensions/github.copilot-chat-0.21.1
+2024-10-12 13:01:58.366 [info] Extension installed successfully: github.copilot file:///home/ichigo/.vscode-server/extensions/extensions.json
+2024-10-12 13:01:58.366 [info] Extension installed successfully: github.copilot-chat file:///home/ichigo/.vscode-server/extensions/extensions.json

@@ -12,7 +12,7 @@ void ft_putnbr( int a)
 		s = -a;
 		ft_putnbr(s);
 	  }else {
-		a = a+'0';
+		a += '0';
 		write(1,&a,1);
 	   }
 
